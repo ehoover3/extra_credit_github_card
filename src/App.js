@@ -60,3 +60,9 @@ function App() {
 }
 
 export default App;
+
+// Follow the PR workflow to submit this project
+// After you initialize your project with create-react-app
+// create a dev branch to work from
+// You will also need to create a new repository on github
+// Push it to github and create a pull request from your dev branch and submit the link to the pull request.
